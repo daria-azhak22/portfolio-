@@ -1,0 +1,72 @@
+body{
+   background-color: rgb(176, 176, 176);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1024px;
+    margin: auto;
+}
+    
+
+
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    width: 200px;
+    display: flex;
+    justify-content: space-between ;
+    list-style: none;
+}
+
+ul li a {
+    color: rgb(114, 116, 118);
+    font-size: 15px;
+}
+
+.logo{
+    color: rgb(76, 76, 76);
+    font-size: 15px;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    display: flex;
+}
+
+footer{
+    width: 350px;
+    margin: auto;
+}
+
+.karta{
+background-color: rgb(202, 202, 202);
+width: 700px ;
+margin: 8px 0;
+padding: 16px;
+box-sizing: border-box;
+border-radius: 16px;
+align-items: center;
+justify-content:space-around ;
+display: flex;
+}
+
+.df{
+    background-color: rgb(227, 227, 227);
+    width: 16%;
+    margin: 4px 0;
+    border-radius: 6px;
+}
+h2{
+    font-family: cursive;
+}
+.two{
+    margin-top: 100px;
+    width: 1000px;
+    margin: auto;
+}
